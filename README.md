@@ -10,6 +10,7 @@
 - 💻 Previous RITSEC Head of Research & Mentorship Chief
 - 👨‍💻 Currently a Pentester
 - :mountain: When I am not working on my projects you can probably find me outside
+- :sunglasses: I'm really cool.
 
 #### :point_down: Where to find me?
 - 💬 Twitter: impo73r
