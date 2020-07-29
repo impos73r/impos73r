@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi I'm Impos73r! 👋
+
+#### 💡 My Ongoing Projects:
+- 🏡 My Smart Home/Home Automation
+- 📲 My Homelab
+- 🛫 Misc Software Defined Radio Projects (Specifically ADS-B Tracking)
+
+#### :exclamation: A Little About Me:
+- 🎓 Recent RIT CSEC Grad
+- 💻 Previous RITSEC Head of Research & Mentorship Chief
+- 👨‍💻 Currently a Pentester
+- :mountain: When I am not working on my projects you can probably find me outside
+
+#### :point_down: Where to find me?
+- 💬 Twitter: impo73r
+- :rocket: Github: Here!
 
 <!--
 **impos73r/impos73r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
